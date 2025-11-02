@@ -46,3 +46,22 @@ Another reason milestones are so great is that they can help keep your project o
 A third reason you'll want to set milestones is that they help you uncover areas where you might need to adjust scope, timelines, or resources to meet your goals. For example, if you realize that reaching a milestone will require more tasks than you'd anticipated, you might ask a stakeholder for permission to reduce the scope of the project and cut down on the number of tasks.
 there's one more reason milestones are so important. Actually reaching milestones can seriously motivate your team and illustrate real progress to your stakeholders. With big projects that go on for months, you'll want to keep the team's motivation high. A milestone signifies the completion of an important chunk of work and provides a moment of celebration for the team, even if there's more work ahead. Milestones also serve as a great check-in point to highlight your progress to stakeholders. 
  it's important to reach milestones in sequential order, but it's just as important that you reach them on time. If the team misses the mark to complete a deliverable tied to a specific milestone, it could set back your project schedule, meaning your team might need to work overtime or add additional resources to catch up.
+
+# How to set milestones
+
+1) Evaluate your project as a whole (Might need to go back to project charter and look at the Project goal)
+2) Make a list of what the team needs to do to achieve that goal. The big items in this list are the milestones & the small items are tasks.
+3) Assign each milestone a deadline (Connect wih teammates to discuss on realistic estimates. Assign milestone deadline based on that estimate. Also consider stakeholders on their expectation on project deliverables.)
+
+# Creating a Work Breakdown Structure
+ A work breakdown structure, often abbreviated to WBS, is a tool that sorts the milestones and tasks of a project in a hierarchy, in the order they need to be completed. This is a helpful tool because it helps break down the sometimes intimidating challenges of a project into more manageable chunks. 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bad524c8-147f-48c2-bdbd-16105346cf11" />
+
+Work breakdown structure shown here breaks a project goal into 3 milestones, and each milestone into subsequent tasks.
+
+## Steps to creating a WBS
+
+1) Start with High-level overarching projust picture. Brainstorm with team to list major deliverables and milestones.
+2) Identify tasks that need to be performed in order to meet those milestones
+3) Examine those tasks and break them down into further subtasks
+
